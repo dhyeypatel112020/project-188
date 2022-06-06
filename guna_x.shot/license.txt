@@ -1,0 +1,11 @@
+Model Information:
+* title:	GunA_X.Shot
+* source:	https://sketchfab.com/3d-models/guna-xshot-8eca859a89ee433fb3073b2f7e5fc823
+* author:	Yannoob (https://sketchfab.com/Yannoob)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GunA_X.Shot" (https://sketchfab.com/3d-models/guna-xshot-8eca859a89ee433fb3073b2f7e5fc823) by Yannoob (https://sketchfab.com/Yannoob) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
